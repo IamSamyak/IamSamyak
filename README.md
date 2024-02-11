@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samyak Burnure</h1>
+![Header](https://firebasestorage.googleapis.com/v0/b/portfolio-66c9e.appspot.com/o/github-header-image%20(1).png?alt=media&token=0cc1d44f-771b-4cd1-b0b3-9651d0a40bf0)
+<!-- <h1 align="center">Hi 👋, I'm Samyak Burnure</h1> -->
 <h3 align="center">A passionate MERN Stack Developer and Competitive Programmer</h3>
+<img align="right" width="400" src="https://firebasestorage.googleapis.com/v0/b/portfolio-66c9e.appspot.com/o/coder.gif?alt=media&token=d7313edd-e9e2-4977-9fb4-249aa6379fd5" alt="coding">
 
 - 🌱 I’m currently learning **spring boot**
 
