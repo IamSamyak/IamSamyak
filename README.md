@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samyakburnure@gmail.com**
 
-- 📄 More about me [Resume](https://bit.ly/3SUKWp1){:target="_blank"}
+- 📄 More about me [Resume](https://bit.ly/3SUKWp1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
