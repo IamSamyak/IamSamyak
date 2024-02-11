@@ -1,4 +1,4 @@
-![Header](https://firebasestorage.googleapis.com/v0/b/portfolio-66c9e.appspot.com/o/github-header-image.png?alt=media&token=e44bdffa-b842-4ec5-bbd4-e90a4b2c7eee)
+![Header](https://firebasestorage.googleapis.com/v0/b/portfolio-66c9e.appspot.com/o/github-header-image.png?alt=media&token=3b9bcc79-b40a-4b8d-acc1-4e1392301c0d)
 <!-- <h1 align="center">Hi 👋, I'm Samyak Burnure</h1> -->
 <h1 align="center"></h1>
 <h3 align="center">A passionate MERN Stack Developer and Competitive Programmer</h3>
