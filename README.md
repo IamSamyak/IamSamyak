@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samyakburnure@gmail.com**
 
-- 📄 More about me [Resume](https://bit.ly/3SUKWp1)
+- 📄 More about me [Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-66c9e.appspot.com/o/Samyak_Burnure_Resume.pdf?alt=media&token=78c48f56-1748-4fa6-95a0-60f6a34920f9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
