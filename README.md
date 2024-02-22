@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **spring boot**
 
-- 💬 Ask me about **react, DSA**
+- 💬 Ask me about **ReactJs, DSA**
 
 - 📫 How to reach me **samyakburnure@gmail.com**
 
