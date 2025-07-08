@@ -39,8 +39,8 @@ I'm a passionate developer who loves crafting **mobile and web applications**, a
 
 ## 📈 GitHub Stats & Streak 🔥  
 
-![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakburnure&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakburnure&theme=dark)
+![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakburnure&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakburnure&theme=tokyonight)
 
 ---
 
