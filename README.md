@@ -39,8 +39,8 @@ I'm a passionate developer who loves crafting **mobile and web applications**, a
 
 ## 📈 GitHub Stats & Streak 🔥  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsamyak&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsamyak&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsamyak&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsamyak&theme=tokyonight)  
 
 ---
 
